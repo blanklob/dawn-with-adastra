@@ -1,16 +1,5 @@
 # Adastra Example With Dawn v9 ✨
 
-```shell
-npm create adastra@latest -- --template blanklob/adastra/examples/with-dawn
-```
-
-Using Yarn/PNPM
-
-```bash
-yarn create adastra@latest --template blanklob/adastra/examples/with-dawn
-# pnpm create adastra@latest --template blanklob/adastra/examples/with-dawn
-```
-
 ## Launch development server
 
 ### Using Adastra CLI ✨
